@@ -1,0 +1,3 @@
+总用量 0
+-rw-r--r-- 1 cauchy cauchy 0 8月   7 11:15 test1.txt
+cauchy   tty1         2019-08-07 11:08 (:0)
