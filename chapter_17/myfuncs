@@ -1,0 +1,14 @@
+#myscript functions
+
+function addem {
+	echo $[ $1 + $2 ]
+}
+
+function multem {
+	echo $[ $1 * $2 ]
+}
+
+function divem {
+	echo $[ $1 / $2 ]
+}
+
